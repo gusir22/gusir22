@@ -8,6 +8,26 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 
 ## Languages & Technologies
 
+### Front-End
+![HTML5](assets/logos/html5.png) 
+![CSS3](assets/logos/css3.png) 
+![JavaScript](assets/logos/javascript.png)
+![Bootstrap](assets/logos/bootstrap.png)
+### Back-End
+![Python](assets/logos/python.png) 
+![Django](assets/logos/django.png)
+### Database & Hosting
+![Postgres](assets/logos/postgres.png)
+![Heroku](assets/logos/heroku.png)
+### General Tools
+![GitHub](assets/logos/github.png)
+![PhotoShop](assets/logos/photoshop.png)
+![Figma](assets/logos/figma.png)
+![Docker](assets/logos/docker.png)
+### Favorite IDEs
+![PyCharm](assets/logos/pycharm.png)
+![VSstudio](assets/logos/visualstudio.png)
+![Cursor](assets/logos/cursor.png)
 
 ## Programming Books I've Read
 
