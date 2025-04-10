@@ -44,6 +44,8 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 | [Two Scoops of Django 3.X][darg] | Daniel & Audrey Roy GreenFeld |
 
 ## My GitHub Activity
+![Gustavo's GitHub stats](https://github-readme-stats-gustavo-riveros-projects-5e62a1c3.vercel.app/api?username=gusir22&theme=dark&count_private=true&ring_color=9ACD32&show_icons=true&icon_color=9ACD32&title_color=9ACD32)
+
 
 
 [cis]: https://www.constructionintegratedservices.com/
