@@ -31,6 +31,18 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 
 ## Programming Books I've Read
 
+| Title | Author | Link |
+| ---- | ------ | ---- |
+| Python Crash Course | Eric Matthes | link |
+| Automate The Boring Stuff With Python | Al Sweigart | link |
+| HTML & CSS | Jon Duckett | link |
+| JavaScript & JQuery | Jon Duckett | link |
+| Django for Beginners 5th Edition | William S. Vincent | link |
+| Django for Professionals 4.0 | William S. Vincent | link |
+| Django for APIs 4.0 | William S. Vincent | link |
+| A Wedge of Django | Daniel & Audrey Roy GreenFeld | link |
+| Two Scoops of Django 3.X | Daniel & Audrey Roy GreenFeld | link |
+
 ## My GitHub Activity
 
 
