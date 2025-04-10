@@ -31,19 +31,27 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 
 ## Programming Books I've Read
 
-| Title | Author | Link |
-| ---- | ------ | ---- |
-| Python Crash Course | Eric Matthes | link |
-| Automate The Boring Stuff With Python | Al Sweigart | link |
-| HTML & CSS | Jon Duckett | link |
-| JavaScript & JQuery | Jon Duckett | link |
-| Django for Beginners 5th Edition | William S. Vincent | link |
-| Django for Professionals 4.0 | William S. Vincent | link |
-| Django for APIs 4.0 | William S. Vincent | link |
-| A Wedge of Django | Daniel & Audrey Roy GreenFeld | link |
-| Two Scoops of Django 3.X | Daniel & Audrey Roy GreenFeld | link |
+| Title | Author |
+| ---- | ------ |
+| [Python Crash Course][pcc] | Eric Matthes |
+| [Automate The Boring Stuff With Python][atbswp] | Al Sweigart |
+| [HTML & CSS][h&c] | Jon Duckett |
+| [JavaScript & JQuery][j&j] | Jon Duckett |
+| [Django for Beginners 5th Edition][dfb] | William S. Vincent |
+| [Django for Professionals 4.0][dfp] | William S. Vincent |
+| [Django for APIs 4.0][dfa] | William S. Vincent |
+| [A Wedge of Django][darg] | Daniel & Audrey Roy GreenFeld |
+| [Two Scoops of Django 3.X][darg] | Daniel & Audrey Roy GreenFeld |
 
 ## My GitHub Activity
 
 
 [cis]: https://www.constructionintegratedservices.com/
+[pcc]: https://nostarch.com/python-crash-course-3rd-edition
+[atbswp]: https://nostarch.com/automate-boring-stuff-python-3rd-edition
+[h&c]: https://htmlandcssbook.com/
+[j&j]: https://javascriptbook.com/
+[dfb]: https://learndjango.com/courses/django-for-beginners/
+[dfp]: https://learndjango.com/courses/django-for-professionals/
+[dfa]: https://learndjango.com/courses/django-for-apis/
+[darg]: https://daniel.roygreenfeld.com/books/tech
