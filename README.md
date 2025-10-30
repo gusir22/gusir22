@@ -16,6 +16,7 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ### Back-End
 ![Python](assets/logos/python.png) 
 ![Django](assets/logos/django.png)
+![PHP](assets/logos/php.png)
 ### Database & Hosting
 ![Postgres](assets/logos/postgres.png)
 ![Heroku](assets/logos/heroku.png)
