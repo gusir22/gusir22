@@ -23,8 +23,8 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ![Railway](assets/logos/railway.png)
 ### APIs
 ![Stripe](assets/logos/stripe.png)
-![Zoho](assets/logo/zoho.png)
-![Odoo](assets/logo/odoo.png)
+![Zoho](assets/logos/zoho.png)
+![Odoo](assets/logos/odoo.png)
 ### General Tools
 ![GitHub](assets/logos/github.png)
 ![PhotoShop](assets/logos/photoshop.png)
