@@ -26,6 +26,7 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ![PhotoShop](assets/logos/photoshop.png)
 ![Figma](assets/logos/figma.png)
 ![Docker](assets/logos/docker.png)
+![Stripe](assets/logos/stripe.png)
 ### Favorite IDEs
 ![PyCharm](assets/logos/pycharm.png)
 ![VSstudio](assets/logos/visualstudio.png)
