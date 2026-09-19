@@ -35,8 +35,8 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ![VSstudio](assets/logos/visualstudio.png)
 ![Cursor](assets/logos/cursor.png)
 ### Events Attended
-![PlutoHacks2024](assets/logos/ph2024.png)
-![PlutoHacks2025](assets/logos/ph2025.png)
+![PlutoHacks2024](assets/logos/ph24.png)
+![PlutoHacks2025](assets/logos/ph25.png)
 ![DEFCON34](assets/logos/d34.jpg)
 
 ## Programming Books I've Read
