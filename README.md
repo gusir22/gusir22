@@ -20,6 +20,7 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ### Database & Hosting
 ![Postgres](assets/logos/postgres.png)
 ![Heroku](assets/logos/heroku.png)
+![Railway](assets/logos/railway-logo.png)
 ### General Tools
 ![GitHub](assets/logos/github.png)
 ![PhotoShop](assets/logos/photoshop.png)
