@@ -21,12 +21,15 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ![Postgres](assets/logos/postgres.png)
 ![Heroku](assets/logos/heroku.png)
 ![Railway](assets/logos/railway.png)
+### APIs
+![Stripe](assets/logos/stripe.png)
+![Zoho](assets/logo/zoho.png)
+![Odoo](assets/logo/odoo.png)
 ### General Tools
 ![GitHub](assets/logos/github.png)
 ![PhotoShop](assets/logos/photoshop.png)
 ![Figma](assets/logos/figma.png)
 ![Docker](assets/logos/docker.png)
-![Stripe](assets/logos/stripe.png)
 ### Favorite IDEs
 ![PyCharm](assets/logos/pycharm.png)
 ![VSstudio](assets/logos/visualstudio.png)
