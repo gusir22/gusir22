@@ -43,6 +43,7 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 | [Django for APIs 4.0][dfa] | William S. Vincent |
 | [A Wedge of Django][darg] | Daniel & Audrey Roy GreenFeld |
 | [Two Scoops of Django 3.X][darg] | Daniel & Audrey Roy GreenFeld |
+| [Responsive Web Design with HTML5 and CSS, 5th edition][rh&c] | Ben Frain |
 
 ## My GitHub Activity
 ![Gustavo's GitHub stats](https://github-readme-stats-gustavo-riveros-projects-5e62a1c3.vercel.app/api?username=gusir22&theme=dark&count_private=true&ring_color=9ACD32&show_icons=true&icon_color=9ACD32&title_color=9ACD32)
@@ -58,3 +59,4 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 [dfp]: https://learndjango.com/courses/django-for-professionals/
 [dfa]: https://learndjango.com/courses/django-for-apis/
 [darg]: https://daniel.roygreenfeld.com/books/tech
+[rh&c]: https://www.packtpub.com/en-us/product/responsive-web-design-with-html5-and-css-9781837028221
