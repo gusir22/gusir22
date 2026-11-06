@@ -1,43 +1,47 @@
 # ![spotlight-left](assets/icons/spotlight-left.png) Hello there! I'm Gustavo Rivero ![spotlight-right](assets/icons/spotlight-right.png)
 
 > I'm a 30-year-old web developer with a passion for the internet, coding, and building useful tools. My journey into tech began during my college years at FIU, where some introductory programming classes inspired me to pursue a second bachelor's degree focused on web development.<br><br>
-I specialize in building web apps using Python, the Django framework, HTML, CSS, JavaScript, and SQL. I'm always eager to learn and expand my skills. One of my proudest projects is a full-featured website I built for my [dad's construction business][cis] using Django. <br><br>
+I specialize in building web apps using Python, the Django framework, HTML, CSS, JavaScript, and SQL to build custom website. I'm always eager to learn and expand my skills. One of my first projects was a full-featured website I built for my dad's construction business using Django. <br><br>
 Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.png) and Bonita![white cat](assets/icons/whitecat.png), happily married to my wife Albany![ring](assets/icons/ring.png), and a big fan of hockey![hockey](assets/icons/hockey.png), videogames![videogames](assets/icons/videogame.png), superhero movies![superhero](assets/icons/hero.png), and comedies![comedy](assets/icons/comedy.png). I also love rocking out to rock and alternative music![rocknroll](assets/icons/rock.png). Originally from Venezuela![Venezuelan Flag](assets/icons/vnz.png), I speak both Spanish and English.<br><br>
+
+## Websites I've worked on
+- [4S Graphics, Inc][4sg] as _Sole Developer_
 
 
 
 ## Languages & Technologies
 
 ### Front-End
-![HTML5](assets/logos/html5.png) 
-![CSS3](assets/logos/css3.png) 
-![JavaScript](assets/logos/javascript.png)
-![Bootstrap](assets/logos/bootstrap.png)
+![HTML5](assets/logos/html5.png "HTML5") 
+![CSS3](assets/logos/css3.png "CSS3") 
+![JavaScript](assets/logos/javascript.png "JavaScript")
+![Bootstrap](assets/logos/bootstrap.png "Bootstrap5 Framework")
 ### Back-End
-![Python](assets/logos/python.png) 
-![Django](assets/logos/django.png)
-![PHP](assets/logos/php.png)
+![Python](assets/logos/python.png "Python") 
+![Django](assets/logos/django.png "Django Framework")
+![PHP](assets/logos/php.png "PHP")
 ### Database & Hosting
-![Postgres](assets/logos/postgres.png)
-![Heroku](assets/logos/heroku.png)
-![Railway](assets/logos/railway.png)
+![Postgres](assets/logos/postgres.png "PostgreSQL")
+![Heroku](assets/logos/heroku.png "Heroku Hosting")
+![Railway](assets/logos/railway.png  "Railway Hosting")
 ### APIs
-![Stripe](assets/logos/stripe.png)
-![Zoho](assets/logos/zoho.png)
-![Odoo](assets/logos/odoo.png)
+![Stripe](assets/logos/stripe.png "Stripe Payments API")
+![Zoho](assets/logos/zoho.png "Zoho API")
+![Odoo](assets/logos/odoo.png "Odoo API")
+![UPS](assets/logos/ups.png "UPS Shipping API")
 ### General Tools
-![GitHub](assets/logos/github.png)
-![PhotoShop](assets/logos/photoshop.png)
-![Figma](assets/logos/figma.png)
-![Docker](assets/logos/docker.png)
+![GitHub](assets/logos/github.png "Github")
+![PhotoShop](assets/logos/photoshop.png "Adobe Photoshop")
+![Figma](assets/logos/figma.png "Figma Wireframe")
+![Docker](assets/logos/docker.png "Docker Containers")
 ### Favorite IDEs
-![PyCharm](assets/logos/pycharm.png)
-![VSstudio](assets/logos/visualstudio.png)
-![Cursor](assets/logos/cursor.png)
+![VSstudio](assets/logos/visualstudio.png "Visual Studio")
+![PyCharm](assets/logos/pycharm.png "PyCharm")
 ### Events Attended
-![PlutoHacks2024](assets/logos/ph24.png)
-![PlutoHacks2025](assets/logos/ph25.png)
-![DEFCON34](assets/logos/d34.jpg)
+![PlutoHacks2024](assets/logos/ph24.png "Broward College 2024 PlutoHacks")
+![PlutoHacks2025](assets/logos/ph25.png "Broward College 2025 PlutoHacks")
+![DEFCON34](assets/logos/d34.jpg "DEFCON 34")
+![PlutoHacks2026](assets/logos/ph26.png "Broward College 2026 PlutoHacks")
 
 ## Programming Books I've Read
 
@@ -58,8 +62,7 @@ Outside of code, I'm a proud cat dad to Luna![black cat](assets/icons/blackcat.p
 ![Gustavo's GitHub stats](https://github-readme-stats-gustavo-riveros-projects-5e62a1c3.vercel.app/api?username=gusir22&theme=dark&count_private=true&ring_color=9ACD32&show_icons=true&icon_color=9ACD32&title_color=9ACD32)
 
 
-
-[cis]: https://www.constructionintegratedservices.com/
+[4sg]: https://4sgraphics.com/
 [pcc]: https://nostarch.com/python-crash-course-3rd-edition
 [atbswp]: https://nostarch.com/automate-boring-stuff-python-3rd-edition
 [h&c]: https://htmlandcssbook.com/
